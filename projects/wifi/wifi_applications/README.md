@@ -37,6 +37,7 @@ Example row (copy/paste and edit):
 
 | Project (GitHub) | Description | Author/Contributor |
 |:--|:--|:--|
+| [MiniFace for SiWG917 BRD2605A](https://github.com/TharunBabu-05/Silicon_labs_SiWG917_BRD2605A) | An interactive VCOM-native desktop interface for the Silicon Labs SiWG917 BRD2605A. It provides on-demand Wi-Fi configuration, live board telemetry, and audio diagnostics while conserving RAM when tools are closed. | [TharunBabu-05](https://github.com/TharunBabu-05) |
 
 ## Documentation ##
 
